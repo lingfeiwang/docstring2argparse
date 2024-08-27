@@ -1,6 +1,6 @@
 [project]
 name = "docstring2argparse"
-version = "0.1.1"
+version = "0.1.2"
 description = "A simple library to convert docstrings to argparse command line interface"
 readme = "README.md"
 authors = [
